@@ -1,8 +1,6 @@
 # Blackbird
 
-Blackbird is a theme for Sublime with technical pastel-colored dark look. 
-
-Use with [Facebook color scheme](https://github.com/mbixby/facebook-color-scheme). Blackbird is not finished.   
+Blackbird is a theme for Sublime accompanying the [Facebook color scheme](https://github.com/mbixby/facebook-color-scheme). Blackbird is not finished.   
 
 See also [Bluebird](https://github.com/mbixby/bluebird) & [Github](https://github.com/mbixby/github-color-scheme).
 
