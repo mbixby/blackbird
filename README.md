@@ -4,6 +4,9 @@ Blackbird is a theme for Sublime with technical pastel-colored dark look.
 
 Use with [Facebook color scheme](https://github.com/mbixby/facebook-color-scheme). Blackbird is not finished.   
 
+![](https://raw.github.com/mbixby/blackbird/master/preview/first.png)  
+![](https://raw.github.com/mbixby/blackbird/master/preview/coffee.png)  
+
 ## Attribution
 
 Based on Soda Theme by Ian Hill (http://buymeasoda.com/)
