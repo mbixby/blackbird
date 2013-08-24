@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>author</key>
+  <string>Ian Hill</string>
+  <key>comment</key>
+  <string>A widget theme for the UI components of the Blackbird theme.</string>
+  <key>name</key>
+  <string>Blackbird - Widget Theme</string>
+  <key>settings</key>
+  <array>
+    <dict>
+      <key>settings</key>
+      <dict>
+        <key>background</key>
+        <string>#383838</string>
+        <key>caret</key>
+        <string>#979E86</string>
+        <key>foreground</key>
+        <string>#dbdee6</string>
+        <key>invisibles</key>
+        <string>#FF0000</string>
+        <key>lineHighlight</key>
+        <string>#2F374D</string>
+        <key>selection</key>
+        <string>#212121</string>
+        <key>selectionBorder</key>
+        <string>#212121</string>
+      </dict>
+    </dict>
+  </array>
+</dict>
+</plist>

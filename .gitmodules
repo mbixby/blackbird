@@ -1,3 +1,6 @@
 [submodule "color-scheme"]
 	path = color-scheme
 	url = https://github.com/mbixby/facebook-color-scheme
+[submodule "goodies"]
+	path = goodies
+	url = https://github.com/mbixby/bluebird
